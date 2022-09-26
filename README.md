@@ -2,20 +2,12 @@
 -------------------------------------
 
 [Single Cell](#single-cell)  
-
 [Transcriptomics](#transcriptomics)  
-
 [Genomics](#genomics)  
-
 [Proteomics](#proteomics)  
-
 [Big Project](#big-project)  
-
 [WebServer](#webserver)  
-
 [Others](#others)  
-
-
 
 ## Single Cell
 - [single-cell-studies](https://www.nxn.se/single-cell-studies)
