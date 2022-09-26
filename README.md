@@ -13,7 +13,7 @@
 - [refine.bio](https://www.refine.bio)  a resource of uniformly processed publicly available gene expression datasets
 - [STAR](http://stargeo.org/) STAR enables meta-analysis of digitally tagged samples for robust gene signatures using 0 gene probes across 3,349 platforms within GEO.
 
-## Genmoics
+## Genomics
 - [gnomAD](https://gnomad.broadinstitute.org/)
 - [OncoGenomics Landscapes](https://oglandscapes.irbbarcelona.org/) Exploring the OncoGenomic Landscape of cancer.
 - [Shiny-SoSV](https://hcpcg.shinyapps.io/shiny-sosv/) A web-based performance calculator for somatic structural variant detection.
